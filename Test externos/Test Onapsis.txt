@@ -1,0 +1,20 @@
+EJercicio 1 
+
+De un listado de Anagramas compararlos y limpiar la palabra que sea anagrama de la anterior.
+
+Listado ejemplo: ["code", "aaagmrs", "anagrams", "doce"]
+
+Ejercicio 2 
+De este JSON
+https://jsonmock.hackerrank.com/api/transactions/search?txnType=
+
+Tomar el locationId, el Transaction type (txnType) y retornar un array de 2 dimensiones que contenga el total transaccion de cada usuario en cada locationId
+
+Debe devolver el total gastado por cada usuario según la locacion dada. 
+
+1 - 13200.08
+2 - 16745.72
+3 - 18859.77
+4 - 10360.32
+
+
